@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shipping Calculator</string>
+    <string name="added_cost">Costo Agregado:</string>
+    <string name="base_cost">Costo Base:</string>
+    <string name="in_ounces">"(En Onzas)"</string>
+    <string name="total_shipping_cost">"Costo Total de Envío:"</string>
+    <string name="weight_of_the_package">"Peso del Paquete"</string>
+    <string name="default_weight">0</string>
+</resources>
