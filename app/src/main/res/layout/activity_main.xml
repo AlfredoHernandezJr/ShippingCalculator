@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:ems="10"
-        android:focusable="auto"
+        android:focusable="true"
         android:focusableInTouchMode="true"
         android:hint="@string/default_weight"
         android:importantForAutofill="no"
